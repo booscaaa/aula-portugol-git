@@ -1,5 +1,5 @@
 programa {
   funcao inicio() {
-    escreva("hello world!")
+    escreva("Vinícius Boscardin")
   }
 }
